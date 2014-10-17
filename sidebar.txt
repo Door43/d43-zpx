@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zpx:home|Door43 (zpx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zpx|d43-zpx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zpx/archive/master.zip|d43-zpx.zip]]
+
+**Recent Changes**
+{{changes>ns = zpx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zpx|Ethnologue data]]
+
